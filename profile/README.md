@@ -1,1 +1,1 @@
-# GDSC-KU
+# GDG-KU
